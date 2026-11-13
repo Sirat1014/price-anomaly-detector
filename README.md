@@ -1,4 +1,5 @@
 # Price Anomaly Detector
+Live app:https://price-anomaly-detector-8trn8c6tk73sw9sxruy96u.streamlit.app
 
 Finds unusual days in public commodity prices (Brent oil, WTI oil, natural gas)
 using Isolation Forest, and explains each flagged day.
